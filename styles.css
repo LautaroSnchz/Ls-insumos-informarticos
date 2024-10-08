@@ -193,6 +193,7 @@ header h1{
 }
 
 
+
 .producto {
     background-color: #261d1b;
     padding: 1rem;
@@ -201,8 +202,9 @@ header h1{
 }
 
 .producto:hover {
-    transform: translateY(-10px) scale(1.05); /* Mueve hacia arriba y agranda ligeramente */
-    box-shadow: 2px 2px 2rem #ff5722; /* Cambia la sombra para darle más énfasis */
+    transform: translateY(-10px) scale(1.05); 
+    box-shadow: 2px 2px 2rem #ff5722; 
 }
+
 
 
